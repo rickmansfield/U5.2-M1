@@ -69,6 +69,7 @@ TH   H    T     U/O
  ```
 ## Conversion Between Binary and Hexadecimal
 ```
+8421
 10010001
 10000001
 00111100
