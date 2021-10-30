@@ -14,7 +14,7 @@
   - [Strings](#strings)
 
 ## Topics Covered today
-- Number Bases
+- Number Bases NOTE - Etymology Radix is a Latin word for "root". Root can be considered a synonym for base, in the arithmetical sense.
 - Decimal
 - Binary
 - Hexadecimal
