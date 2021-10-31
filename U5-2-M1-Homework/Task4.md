@@ -8,9 +8,13 @@ there are 5 64bit integers
 320 bits / 8 = 40 
 
 or 
-
+```
 (320 bits /1) X (1byte / 8bits) 
+```
+
+```math
 
 320 bits        1 byte
 ________    x _________ = 320/8 bytes= 40 bytes 
    1            8 bits
+```
