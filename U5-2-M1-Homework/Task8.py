@@ -14,7 +14,7 @@ def csRaindrops(number):
         rs += "Plang"
     if number %7 == 0:
         rs += "Plong"
-    elif rs == "":
+    elif rs is "":
         rs += str(number)
     return rs
 
