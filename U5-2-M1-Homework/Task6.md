@@ -1,4 +1,4 @@
-# Unit 5.2 M1 Homework Task 1
+# Unit 5.2 M1 Homework Task 6
 
 ## Instructions
 - Given an integer, write a function that reverses the bits (in binary) and returns the integer result.
