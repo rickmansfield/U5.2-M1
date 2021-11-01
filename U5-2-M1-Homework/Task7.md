@@ -1,5 +1,8 @@
 # Unit 5.2 M1 Homework Task 7
 
+# Reference 
+
+- https://www.w3schools.com/charsets/ref_html_ascii.asp
 ## Instructions 
 - Given a binary string (ASCII encoded), write a function that returns the equivalent decoded text.
 - Every eight bits in the binary string represents one character on the ASCII table.

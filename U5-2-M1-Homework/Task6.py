@@ -29,7 +29,7 @@ def csReverseIntegerBits(n):
         n = n >> 1
     return reversed_num
 
-# print(csReverseIntegerBits(417)) # 267
+print(csReverseIntegerBits(417)) # 267
 
 print(csReverseIntegerBits(267)) # 417
 

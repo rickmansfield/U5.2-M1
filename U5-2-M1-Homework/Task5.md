@@ -1,6 +1,6 @@
 # Unit 5.2 M1 Homework Task 5
 
-Q) In order to store strings in memory, each character in the string mut be encoded so that tit can be stored as binary . ASCII is one example of a character set. Each character in ASCII can be represented by 7 bits (although they are commonly stored as 8 bits). Given that, what is the maximum number of characters that could be in the ASCII set. 
+Q) In order to store strings in memory, each character in the string mut be encoded so that it can be stored as binary . ASCII is one example of a character set. Each character in ASCII can be represented by 7 bits (although they are commonly stored as 8 bits). Given that, what is the maximum number of characters that could be in the ASCII set. 
 
 - 64
 - 72
